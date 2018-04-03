@@ -1,3 +1,3 @@
-### KushKoin
+# KushKoin
 ## Introduction
-# Let's build a private, secure digital currency.
+### Let's build a private, secure digital currency.
